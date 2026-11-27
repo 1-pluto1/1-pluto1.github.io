@@ -1,0 +1,14 @@
+# peace & love
+
+> Zhao Yang's blog: everything about AI and everything I learn, from embodied AI and agents to algorithms, infra, tools and small experiments.
+
+Playbooks are step-by-step runbooks written for AI agents. Every playbook is available as clean Markdown (the link below) and as an installable skill (`skill.md` in the same folder).
+
+## Playbooks
+
+- [Build and run a personal blog with Claude Code](https://uestcyz.top/playbooks/build-a-blog-with-claude-code/index.md): How this site was built end to end with Claude Code: Hugo + PaperMod, GitHub Pages deploy with a deploy key, custom domain with HTTPS, and an Obsidian writing workflow. Includes the pitfalls that cost real time.
+
+## Optional
+
+- [Archive of all posts (mostly Chinese study notes)](https://uestcyz.top/archives/)
+- [Site feed](https://uestcyz.top/index.xml)
